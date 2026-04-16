@@ -1,0 +1,23 @@
+# n8n
+.n8n/
+n8n_data/
+*.db
+
+# Environment
+.env
+.env.local
+
+# Credentials
+credentials/
+service-account*.json
+
+# Logs
+logs/
+*.log
+
+# Dependencies
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db

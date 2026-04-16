@@ -1,0 +1,21 @@
+Template Name: distributor_hot_day1
+Language: English
+Category: MARKETING
+
+Body:
+Hello {{1}},
+
+Welcome to [Company Name]! 🎉
+
+Your exclusive distributor benefits:
+✅ 30% profit margins
+✅ Credit facility available
+✅ Free marketing support
+✅ Same-day dispatch
+
+Reply YES for catalog & pricing.
+
+Call: +91-XXXXXXXXXX
+
+Variables:
+{{1}} = Customer Name

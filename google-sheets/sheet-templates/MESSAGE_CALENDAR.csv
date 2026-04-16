@@ -1,0 +1,5 @@
+Segment,Temperature,Day_Number,Template_ID,Description,Cooldown_Days
+DISTRIBUTOR_OLD,HOT,1,dist_old_hot_d1,Initial outreach,1
+DISTRIBUTOR_OLD,HOT,2,dist_old_hot_d2,Follow-up pricing,1
+RETAILER,HOT,1,retail_hot_d1,Welcome message,1
+INDIAMART,HOT,1,ind_hot_d1,Thank you inquiry,1

@@ -1,0 +1,20 @@
+Template Name: retailer_hot_day1
+Language: English
+Category: MARKETING
+
+Body:
+Hello {{1}},
+
+Welcome to our Retailer Program!
+
+Benefits:
+✅ Minimum order: 10 units
+✅ 25-30% margins
+✅ Free delivery >₹5,000
+
+Reply CATALOG for product list.
+
+Support: +91-XXXXXXXXXX
+
+Variables:
+{{1}} = Customer Name
